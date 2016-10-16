@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AngularJS",
+		"AngularZen",
+		"ApacheConf.tmLanguage",
+		"FileDiffs",
+		"Highlight Whitespaces",
+		"HTML Snippets",
+		"Indent XML",
+		"JSON Reindent",
+		"JsonTree",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"Path Tools",
+		"PowerShell",
+		"Pretty JSON",
+		"Print to HTML",
+		"Promela_Spin",
+		"Racket",
+		"SortBy",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"WordCount"
+	]
+}
